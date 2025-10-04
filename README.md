@@ -8,7 +8,9 @@ A desktop application for managing bank accounts with deposit, withdrawal, and t
 
 ### Step 1: Clone the Repository
 git clone 
+
 https://github.com/abhishekkk-gupta/bank-management-system
+
 cd bank-management-system
 
 # Step 2: Install Required Libraries
