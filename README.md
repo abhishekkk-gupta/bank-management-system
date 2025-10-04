@@ -17,4 +17,5 @@ cd bank-management-system
 pip install reportlab
 
 # Step 3: Run the Application
-bashpython main.py
+
+python main.py
